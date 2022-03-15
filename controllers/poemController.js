@@ -2,7 +2,7 @@
 const express = require("express");
 
 //Import the poem model
-const Poem = require("../db/models/Poems");
+const Poem = require("../db/models/Poem");
 
 //Instantiate a router
 const router = express.Router();
