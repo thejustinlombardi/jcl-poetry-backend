@@ -1,0 +1,49 @@
+[
+    {
+        "title": "I want to be alone",
+        "id": 0,
+        "poem": [
+            "I wish you could all disappear",
+            "I function much better when you",
+            "Come and go",
+            "In all of the ways",
+            "You destroy me ",
+            "All of you",
+            "And now I’m left with pain ",
+            "With guilt",
+            "A deeper suffering that reaches my depths",
+            "And I hate you for it"
+        ],
+        "theme": "dark"
+    },
+     {
+        "title": "Her",
+        "id": 1,
+        "poem": [
+            "Her hair",
+            "More golden than the sun",
+            "In the highest noon",
+            " ",
+            "Her lips",
+            "Fuller than the moon",
+            "At its solstice peak",
+            " ",
+            "Her smile",
+            "Brighter than any star",
+            "Across Orion’s belt",
+            " ",
+            "Her voice",
+            "Sweeter than any melody",
+            "Sung across the seven seas",
+            " ",
+            "It sings words of comfort",
+            "More embracing than the trees",
+            "That rise higher than skyscrapers",
+            "A tall tale to what’s beneath",
+            " ",
+            "Her."
+        ],
+        "theme": "love"
+    }
+
+]
