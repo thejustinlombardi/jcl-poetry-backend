@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 app.set("port", process.env.PORT || 3001);
 const cors = require("cors");
-const poemController = require("./controllers/poemController");
+const poemController = require("./controllers/poemController.js");
 
 // Middleware
 app.use(express.json());
